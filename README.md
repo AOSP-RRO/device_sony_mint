@@ -1,6 +1,7 @@
 Sony Xperia T
 =============
 
+
 The Sony Xperia T (codenamed _"Mint"_) is a flagship smartphone from Sony Mobile.
 
 It was announced on 29 August 2012.
